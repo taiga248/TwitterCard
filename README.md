@@ -7,3 +7,5 @@
 ちゃんと表示されてるのでOK
 
 どんな感じで表示されるか見れる[サイト](https://cards-dev.twitter.com/validator)
+
+[Qiita](https://qiita.com/Taiga_san/items/49d3f4f81b4975cd0d6e)
